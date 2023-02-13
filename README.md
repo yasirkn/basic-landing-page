@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/yasirkn/basic-landing-page.github.io)
+- Live Site URL: (https://yasirkn.github.io/basic-landing-page.github.io/)
 
 ### Built with
 
